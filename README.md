@@ -1,13 +1,7 @@
-# Quarto Template for the Tutorial
+# Disabato quarto website
+## Version 0.1.0
 
-This repository contains the template for the website tutorial at <https://www.marvinschmitt.com/blog/website-tutorial-quarto/>.
+This repository contains my website created from quarto files through RStudio.
+I used the website template from Marvin Schmitt at <https://www.marvinschmitt.com/blog/website-tutorial-quarto/>.
 
-<p align="center">
-  <img src="img/website_template_screenshot_1.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="img/website_template_screenshot_2.png" width="45%">
-<br/><br/>
-  <img src="img/website_template_screenshot_3.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="img/website_template_screenshot_4.png" width="45%">
-</p>
+No blog has been added yet, but I hope to do so soon.
