@@ -1,0 +1,44 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/D Disabato 8062_(2) 750 x 750.jpg"
+  links:
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=xE5ybbMAAAAJ&hl=en&oi=ao
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/david-disabato-85488224
+    - icon: github
+      text: Github
+      href: https://github.com/ddisab01
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/david_disabato
+format:
+  html:
+    link-external-newwindow: true
+---
+
+::: {#about-block}
+:::
+
+# About me: David Disabato, PhD
+
+I am a **Biostatistics** master's student and Psychological Scientist. I am currently purusing a career change from psychology to statistics. During my 20s, I received my PhD in Clinical Psychology from [George Mason University](https://clinical.gmu.edu/) outside Washington, DC. I received training in both scientific research and clinical practice. Over the past 4 years, I was an Assistant Professor of Psychology at [Baldwin Wallace University](https://www.bw.edu/) in Berea, OH. Although I enjoy research and psychology, I realized being a college professor was not for me. I decided to pursue an alternative career in the two things I am most passionate about: *stats* and *therapy*. Statistics was always my favorite part about the research process, and I received a concentration in Quantitative Psychology during my doctoral training. I have become interested in the health sciences in general, which led me to the biostatistics master's program at [Case Western Reserve University's School of Medicine](https://case.edu/medicine/pqhs/education/biostatistics-epidemiology/ms-biostatistics). I am really enjoying the program as I learn more advanced statistics, probability theory, health care analytics, and R programming. While re-training in biostatistics, I am continuing my passion for therapy by providing individual psychotherapy part-time. Please visit the [Royalton Psychological Associates group practice website](https://www.royaltonpsych.com/about-us/) for information about my therapy practice.
+
+I have a strong foundational in statistics for the social sciences. I have taken university courses or in-person workshops (e.g., [Stats Camp](https://www.statscamp.org/)) on the following analyses: ANOVAs & t-tests, Moderation and Mediation, Generalized Linear Models (e.g., logistic regression), Multiple Imputation (for missing data), Linear Mixed-Effects Models (aka Multi-Level Models), Exploratory and Confirmatory Factor Analysis (EFA & CFA), Structural Equation Modeling (SEM), Latent Profile Analysis (LPA), Latent Growth Mixture Modeling (LGMM), and Multilevel Structural Equation Modeling (MSEM). Throughout my career, I provided informal statistical consulting to my colleagues in psychology. This allowed me oppurtunities to publish papers using the above statistical analyses. Please see my **Publications** page for a list of peer reviewed scholarly articles organized by statistical analysis. You will see the content areas range within psychology from well-being/quality of life, emotional disorders (e.g., depression, social anxiety), health behaviors (e.g., nutritious eating, exercise), character strengths (e.g., grit, gratitude, curiosity), marriage and divorce, criminal thinking, suicide prevention, help-seeking, to spirituality (e.g., meaning in life, religiosity). Additionally, I have been involved in data collection for a number of longitudinal cohort studies that spanned multiple years.
+
+My favorite statistical software is [R](https://www.r-project.org/) through the use of [RStudio](https://posit.co/products/open-source/rstudio). I was first introduced to R in 2012 by my statistics professor, [Patrick McKnight, PhD](https://www.patrickemcknight.com/). Initially trained in SPSS, I struggled to learn R at first. I remember taking a coursera class in R by the statistician [Roger Peng, PhD](https://www.coursera.org/instructor/rdpeng) to get my footing. However, after getting past the growing pains (see [The R Inferno](https://www.burns-stat.com/documents/books/)), I loved how powerful and flexible R was. I have not looked back since as R is my go to statistical software. I have authored two R packages and hope to create more in the future. Please see my **R packages** page for details and links.
+
+Although almost anything you could ever want to know is on the internet, it is not always easy to find. Over the years, I have collated a list of helpful statistics and data analysis resources. I included them on my website in case they are of use to others (and as any good programmer knows, future me). Please see my **Stats Resources** page for these resources.
+
+In the near future, I will be starting up a statistical consulting company. Feel free to email me at david.disabato@case.edu if you are interested in my consulting services.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.daviddisabato.com/blog" role="button" target="_blank" style="padding: 15px 30px;">View my applied statistics blog here</a>
+</div>
+```
+

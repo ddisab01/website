@@ -1,0 +1,36 @@
+---
+title: Stats Resources
+format:
+  html:
+    link-external-newwindow: true
+---
+
+## Podcasts
+
+![](stats-concepts-image.png)
+
+- [Statistics Made Simple](https://bradrfulton.com/podcasts/statistics/) by Brad R. Fulton, PhD. Brad is a professor of social policy with decades of experience teaching statistics. He provides introductory-level (think 2nd year undergraduate student) lectures on basic concepts with limited math and formulas. As the title says, he aims to make statistics simple!
+
+- [Quantitude](https://quantitude.org/) by Greg Hancock, PhD and Patrick Curran, PhD. Greg is a statistician in the field of education and Patrick is a statistician in the field of psychology. They provide intermediate-level (think 2nd year graduate student) episodes on "all things quantitative", from linear regression to structural equation modeling to philosophy of science, through explanation, discussion, and "grousing". They provide an exemplar of the "modeling" approach to statistics in the social sciences.
+
+----
+
+## Books
+
+![](stats-programming-image.png)
+
+- [Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences (third edition)](https://www.taylorfrancis.com/books/mono/10.4324/9780203774441/applied-multiple-regression-correlation-analysis-behavioral-sciences-jacob-cohen-patricia-cohen-stephen-west-leona-aiken) by Jacob Cohen, Patricia Cohen, Stephen G. West, and Leona S. Aiken. Still a great introduction to the *General Linear Model* (aka Linear regression, correlation, ANOVA, and t-tests), even though its an older text (originally written in 1975 and modified in 1983 & 2003). I have heard it referred to as the "Regression Bible" due to its comprehensive nature. Written for social science researchers and not statisticians, it provides an intermediate-level (think 2nd year graduate student) coverage of the foundation of applied statistics.
+
+- [Introduction to Mediation, Moderation, and Conditional Process Analysis: A Regression-Based Approach (third edition)](https://www.guilford.com/books/Introduction-to-Mediation-Moderation-and-Conditional-Process-Analysis/Andrew-Hayes/9781462549030) by Andrew F. Hayes, PhD. Andrew Hayes is the author of the very popular [PROCESS macros](https://www.afhayes.com/spss-sas-and-r-macros-and-code.html) for conducting mediation in SPSS, SAS, Stata, and R. Although other regression books cover moderation (aka interactions), his arguably does the best job of covering mediation and moderated mediation... and mediated moderation... etc.
+
+- [Principles and Practice of Structural Equation Modeling (fifth edition)](https://www.guilford.com/books/Principles-and-Practice-of-Structural-Equation-Modeling/Rex-Kline/9781462551910?srsltid=AYCX9vKl6LtA2XRGD_ls_oduOD4k0t6PFEX82_UeRfrztSo16pNEnQE4) by Rex B. Kline, PhD. Rex has taught statistics courses to psychology graduate students for years and has continued to improve his seminal book on SEM with each subsequent edition. I recommend having a solid foundation in the multiple regression (see above) before reading it. Part of the [Methodology in the Social Sciences Series](https://www.guilford.com/browse/research-methods/methodology-social-sciences-series), which has several other excellent books.
+
+----
+
+## Videos
+
+![](stats-analyses-image.png)
+
+- [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR) YouTube channel by Josh Starmer. He has 5 to 30 minute videos on a wide range of statistical concepts and analyses. Some cover basic topics like [standard error](https://www.youtube.com/watch?v=XNgt7F6FqDU&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=62) and [linear regression](https://www.youtube.com/watch?v=aFDOzpTeg0s&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=174) while others cover more advanced topics such as [Maximum Likelihood Estimation](https://www.youtube.com/watch?v=XepXtl9YKwc&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=5) and [Random Forests](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=10). Either way, he breaks statistics into bite site pieces so its digetable to non-statisticians. His videos have millions of views, perhaps because he embraces his nerdiness through song.
+
+- [TidyTuesday](https://www.rscreencasts.com/) screencasts of [David Robinson](http://varianceexplained.org/), a top data scientist, using R and the tidyverse on publicly available data. What's great about these videos is that they are not planned out ahead of time and polished like a formal lecture. Instead, they are videos of David analyzing real data in real time to show how he codes and thinks in R with the tidyverse. Hadley Wickham, lead author of the tidyverse, did one of these as well in honor of his love for [cocktails](https://www.youtube.com/watch?v=kHFmtKCI_F4), but David has dozens and dozens of them. (Also thank you to whoever took the time to organize these and post these all online!)

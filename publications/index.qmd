@@ -1,0 +1,128 @@
+---
+title: Publications
+format:
+  html:
+    link-external-newwindow: true
+---
+
+## Peer Reviewed Empirical
+
+### Multilevel Structural Equation Modeling (MSEM)
+
+**Disabato, D. J.**, Aurora, P., Sidney, P., Taber, J., Thompson, C., & Coifman, K. G. (2022). Self-care behaviors and affect during the early stages of the COVID-19 pandemic. *Health Psychology, 41*(11), 833-842. <https://doi.org/10.1037/hea0001239>
+
+### Latent Growth Mixture Modeling (LGMM)
+
+Coifman, K. G., **Disabato, D. J.**, Aurora, P., Seah, S., Sidney, P., Taber, J., & Thompson, C. (2021). What drives preventive health behavior during a global pandemic? Emotion and worry. *Annals of Behavioral Medicine, 55*(8), 791-804. <https://doi.org/10.1093/abm/kaab048>
+
+### Latent Profile Analysis (LPA)
+
+Gunstad, J., **Disabato, D. J.**, Shrestha, R., Sanborn, V., Mistler, C. B., & Copenhaver, M. M. (2023). Latent profile analysis of data from the Brief Inventory of Neurocognitive Impairment (BINI) to develop neuro-cognitive profiles among opioid-dependent patients in drug treatment. *Journal of Addictive Diseases, 41*(2), 120-127. <https://doi.org/10.1080/10550887.2022.2080626>
+
+Goodman, F. R., **Disabato, D. J.**, Kashdan, T. B., & Kaufman, S. B. (2018). Measuring well-being: A comparison of subjective well-being and PERMA. *Journal of Positive Psychology, 13*, 321-332. <https://doi.org/10.1080/17439760.2017.1388434>
+
+### Structural Equation Modeling (SEM)
+
+Nguyen, T. N. M., **Disabato, D. J.**, Gunstad, J., Delahanty, D. L., George, R., Muakkassa, F., Mallat, A. F., & Coifman, K. G. (2024). Can the positive buffer from the negative? Testing the impact of protective childhood experiences on adjustment in adults following trauma exposure. *Anxiety, Stress & Coping, 37*(1), 60-76. <https://doi.org/10.1080/10615806.2023.2193888>
+
+### Exploratory and Confirmatory Factor Analysis (EFA & CFA)
+
+Akbari, M., **Disabato, D. J.**, Seydavi, M., & Zamani, E. (2021). The Persian Personalized Psychological Flexibility Index (P-PPFI): Psychometric properties in a general population sample of Iranians. *Journal of Contextual Behavioral Science, 22*, 32-43. <https://doi.org/10.1016/j.jcbs.2021.09.004>
+
+Kashdan, T. B., **Disabato, D. J.**, Goodman, F. R., Doorley, J., & McKnight, P. E. (2020). Understanding psychological flexibility: A multi-method exploration of pursuing valued goals despite the presence of pain. *Psychological Assessment, 32*(9), 829-850. <https://doi.org/10.1037/pas0000834>
+
+Kashdan, T. B., **Disabato, D. J.**, Goodman, F. R., & McKnight, P. E. (2020). The five-dimensional curiosity scale revised (5DCR): Briefer subscales while separating overt and covert social curiosity. *Personality and Individual Differences, 157*, 109836. <https://doi.org/10.1016/j.paid.2020.109836>
+
+Kashdan, T. B., Goodman, F. R., **Disabato, D. J.**, McKnight, P, E., Kelso, K., & Naughton, C. (2020). Curiosity has comprehensive benefits in the workplace: Developing and validating the Multidimensional Work Curiosity Scale in United States and German employees. *Personality and Individual Differences, 155*, 109717. <https://doi.org/10.1016/j.paid.2019.109717>
+
+**Disabato, D. J.**, Goodman, F. R., & Kashdan, T. B. (2019). Is grit relevant to well-being and strengths? Cross-cultural evidence for separating out perseverance of effort and consistency of interests. *Journal of Personality, 87*, 194-211. <https://doi.org/10.1111/jopy.12382>
+
+Kashdan, T. B., Stiksma, M. C., **Disabato, D. J.**, Bekier, J., Kaji, J., & Lazarus, R. (2018). The Five-Dimensional Curiosity Scale: Capturing the bandwidth of curiosity and identifying four unique subgroups of curious people. *Journal of Research in Personality, 73*, 130-149. <https://doi.org/10.1016/j.jrp.2017.11.011>
+
+**Disabato, D. J.**, Folk, J., Daylor, J., Wilson, J., Barboza, S., & Tangney, J. P. (2016). Psychometric validation of a simplified form of the PICTS for assessing criminal thinking. *Psychopathology and Behavioral Assessment, 38*, 456-464. <https://doi.org/10.1007/s10862-015-9533-7>
+
+**Disabato, D. J.**, Goodman, F. R., Kashdan, T. B., Short, J. L., & Jarden, A. (2016). Different types of well-being? A cross-cultural examination of hedonic and eudaimonic well-being. *Psychological Assessment, 28*, 471-482. <https://doi.org/10.1037/pas0000209>
+
+### Linear Mixed-Effect Modeling (aka Multi-Level Modeling)
+
+**Disabato, D. J.**, Gawlik, E. A., Aurora, P., & Coifman, K. G. (2025). Unpacking the components of positive affect variability: Implications for psychological health across contexts. *Emotion, 25*(1), 126-143. <https://doi.org/10.1037/emo0001416>
+
+**Disabato, D. J.**, Gawlik, E. A., Seah, S., & Coifman, K. G. (2025). Boosting positive mood during stress: A daily coping toolkit replication in college undergraduates. *Anxiety, Stress & Coping. 38*(3), 286-300. <https://doi.org/10.1080/10615806.2025.2457625>
+
+**Disabato, D. J.**, Foust, J. L., Taber, J. M., Thompson, C. A., Sidney, P. G., & Coifman, K. G. (2024). What drives preventative health behaviors one year into a pandemic? A replication and extension. *Psychology & Health*. Advance online publication. <https://doi.org/10.1080/08870446.2024.2372651>
+
+Aurora, P., **Disabato, D. J.**, & Coifman, K. G. (2022). Positive affect predicts engagement in healthy behaviors within a day, but not across days. *Motivation and Emotion, 46*, 211-225. <https://doi.org/10.1007/s11031-021-09924-z>
+
+Brown, B., Goodman, F. R., **Disabato, D. J.**, Kashdan, T. B., & Armeli, S., Tennen, H. (2021). Does negative emotion differentiation influence how people choose to regulate their distress after stressful events? A four-year daily diary study. *Emotion, 21*(5), 1000-1012. <https://doi.org/10.1037/emo0000969>
+
+Riskind, J. H., Sica, C., Caudek, C., Bottesi, G., **Disabato, D. J.**, Ghisi, M. (2021). Looming cognitive style more consistently predicts anxiety than depressive symptoms: Evidence from a 3-wave yearlong study. *Cognitive Therapy and Research, 45*, 745-758. <https://doi.org/10.1007/s10608-020-10189-y>
+
+Doorley, J. D., Goodman, F. R., **Disabato, D. J.**, Kashdan, T. B., Weinstein, J. S., & Shackman, A. J. (2021). The momentary benefits of positive events for individuals with elevated social anxiety. *Emotion, 21*(3), 595-606. <https://doi.org/10.1037/emo0000725>
+
+Goodman, F. R., **Disabato D. J.**, & Kashdan, T. B. (2017). Personality strengths as resilience: A one-year multiwave study. *Journal of Personality, 85*, 423-434. <https://doi.org/10.1111/jopy.12250>
+
+### Multiple Imputation (for missing data)
+
+Giff, S., **Disabato, D. J.**, Renshaw, K. & Campbell, S. (2022). Longitudinal associations of global and daily support with marital status. *The American Journal of Family Therapy, 50*(3), 280-294. <https://doi.org/10.1080/01926187.2021.1913667>
+
+**Disabato, D. J.**, Kashdan, T. B., Doorley, J. D., Kelso, K., Volgenau, K., Devendorf, A. R., & Rottenberg, J. (2021). Optimal well-being in the aftermath of anxiety disorders: A 10-year longitudinal investigation. *Journal of Affective Disorders, 291*, 110-117. <https://doi.org/10.1016/j.jad.2021.05.009>
+
+### Generalized Linear Modeling (e.g., logistic regression)
+
+Rottenberg, J., Devendorf, A. R., Panaite, V., **Disabato, D. J.**, & Kashdan, T. B. (2019). Optimal well-being after major depression. *Clinical Psychological Science, 7*, 621-627. <https://doi.org/10.1177/2167702618812708>
+
+**Disabato, D. J.**, Short, J. L., Lameira, D., Wong, S., & Bagley, K. (2018). Predicting help seeking behavior: The impact of knowing someone close who has sought help. *Journal of American College Student Health, 66*, 731-738. <https://doi.org/10.1080/07448481.2018.1440568>
+
+### Moderation and Mediation
+
+Hoogeveen, S., Sarafoglou, A., …, **Disabato, D. J.**, …, van Elk, M., & Wagenmakers, E. J. (2023). A many-analysts approach to the relation between religiosity and well-being. *Religion, Brain, & Behavior, 13*(3), 237-283. <https://doi.org/10.1080/2153599X.2022.2070255>
+
+Thompson, C. A., Taber, J. M., Sidney, P. G., Fitzsimmons, C. J., Mielicki, M. K., Matthews, P. G., Schemmel, E. A., Simonovic, N., Foust, J. L., Aurora, P., **Disabato, D. J.**, Seah, T. H. S., Schiller, L. & Coifman, K.G. (2021). Math matters: A novel, brief educational intervention decreases whole number bias when reasoning about COVID-19. *Journal of Experimental Psychology: Applied, 27*(4), 632-656. <https://doi.org/10.1037/xap0000403>
+
+Bono, G., Froh, J., **Disabato, D. J.**, Blalock, D.V., & McKnight, P. E. (2019). Gratitude’s role in adolescent antisocial and prosocial behavior: A 4-year longitudinal investigation. *Journal of Positive Psychology, 14*, 230-243. <https://doi.org/10.1080/17439760.2017.1402078>
+
+**Disabato, D. J.**, Kashdan, T. B., Short, J. L., & Jarden, A. (2017). What predicts positive life events that influence the course of depression? A longitudinal examination of gratitude and meaning in life. *Cognitive Therapy and Research, 41*, 444-458. <https://doi.org/10.1007/s10608-016-9785-x>
+
+Machell, K. A., **Disabato, D. J.**, & Kashdan, T. B. (2016). Buffering the negative impact of poverty on youth: The power of purpose in life. *Social Indicators Research, 126*, 845-861. <https://doi.org/10.1007/s11205-015-0917-6>
+
+Misiak, M., Kaczmarek, L. D., Kashdan, T. B., Zimny, M., Urbanski, H., Zasinski, A., & **Disabato, D. J.** (2015). Prenatal exposure to sex hormones predicts gratitude intervention use: Examination of digit ratio, motivational beliefs, and online activities. *Personality and Individual Differences, 77*, 68-73. <https://doi.org/10.1016/j.paid.2014.12.041>
+
+### ANOVAs and t-tests
+
+Coifman, K. G., **Disabato, D. J.**, Seah, S., Gunstad, J., Delahanty, D., Palmeri, P., & Delahanty, S. (2021). Boosting positive mood in medical emergency personnel during the COVID-19 pandemic: Preliminary evidence of efficacy, feasibility, and acceptability of a novel online ambulatory intervention. *Occupational and Environmental Medicine, 78*, 555-557. <http://dx.doi.org/10.1136/oemed-2021-107427>
+
+Pollard, J. W., **Disabato, D. J.**, Polychronis, P. D., & Scalora, M. J. (2020). Counseling center clinicians experience providing assessments of risk to self versus risk to others. *Journal of College Student Psychotherapy, 34*(2), 125-137. <https://doi.org/10.1080/87568225.2019.1574215>
+
+Rallis, B. A., Esposito-Smythers, C., **Disabato, D. J.**, Mehlenbeck, R. S., Kaplan, S. Geer, L., Adams, R., & Meehan, B. (2018). A brief peer gatekeeper suicide prevention training: Results of an open pilot trial. *Journal of Clinical Psychology, 74*, 1106-1116. <https://doi.org/10.1002/jclp.22590>
+
+Folk, J., **Disabato, D. J.**, Daylor, J., Wilson, J., Barboza, S., & Tangney, J. P. (2016). Evaluating the effectiveness of a criminal thinking intervention: Taking a Chance on Change. *Psychological Services, 13*, 272-282. <https://doi.org/10.1037/ser0000079>
+
+### Descriptive
+
+Kashdan, T. B., McKnight, P. E., **Disabato, D. J.**, Kelso, K., Lauber, M. D., & Goodman, F. R. (2020). Sexual assault: Exploring real-time consequences the next day and subsequent days. *International Journal of Well-being, 10*(4), 1-19. <https://doi.org/10.5502/ijw.v10i4.1319>
+
+----
+
+## Non-Empirical
+
+### Theoretical or Conceptual
+
+**Disabato, D. J.**, Goodman, F. R., & Kashdan, T. B. (2025). A hierarchical framework of well-being (HiFWB). *Frontiers in Psychology, 16*, 1515423. <https://doi.org/10.3389/fpsyg.2025.1515423>
+
+Goodman, F. R., **Disabato, D. J.**, & Kashdan, T. B. (2021). Reflections on unspoken problems and potential solutions for the well-being juggernaut in positive psychology. *Journal of Positive Psychology, 16*(6), 831-837. <https://doi.org/10.1080/17439760.2020.1818815>
+
+Goodman, F. R., **Disabato, D. J.**, & Kashdan, T. B. (2019). Integrating strengths under the umbrella of personality science: Rethinking the definition, measurement, and modification of strengths. *Journal of Positive Psychology, 14*, 61-67. <https://doi.org/10.1080/17439760.2018.1528380>
+
+Rottenberg, J., Devendorf, A. R., Kashdan, T. B., & **Disabato, D. J.** (2018). The curious neglect of high functioning after psychopathology: The case of depression. *Perspectives in Psychological Science, 13*, 549-566. <https://doi.org/10.1177/1745691618769868>
+
+Folk, J. B., **Disabato, D. J.**, Goodman, F. R., Carter, S. P., DiMauro, J. C., & Riskind, J. H. (2017). Wise additions bridge the gap between social psychology and clinical practice: Cognitive-behavioral therapy as an exemplar. *Journal of Psychotherapy Integration, 27*, 407-423. <https://doi.org/10.1037/int0000038>
+
+Alexander, L., McKnight, P. E., **Disabato, D. J.**, & Kashdan, T. B. (2017). When and how to use multiple informants to improve clinical assessment. *Psychopathology and Behavioral Assessment, 39*, 669-679. <https://doi.org/10.1007/s10862-017-9607-9>
+
+Kashdan, T.B., Rottenberg, J., Goodman, F.R., **Disabato, D.J.**, & Begovic, E. (2015). Lumping and splitting in the study of meaning in life: Thoughts on surfing, surgery, scents, and sermons. *Psychological Inquiry, 26*, 336-342. <https://doi.org/10.1080/1047840X.2015.1073659>
+
+### Editorials
+
+Clark, C., & **Disabato, D. J.** (2026). Psychology at the crossroads: The role of town halls in building bridges. *Psychotherapy Bulletin, 61*(3), 8-16. [Website link](https://societyforpsychotherapy.org/psychology-at-a-crossroads-the-role-of-town-halls-in-building-bridges/)
+
+**Disabato, D. J.** (2023). When is quantitative evidence actually useful for day-to-day psychotherapy practice? Why unsystematic qualitative evidence reigns supreme. *Psychotherapy Bulletin, 58*(2,3), 50-57. [Website link](https://societyforpsychotherapy.org/when-is-quantitative-evidence-actually-useful-for-day-to-day-psychotherapy-practice-why-unsystematic-qualitative-evidence-reigns-supreme/)
